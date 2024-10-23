@@ -20,7 +20,7 @@
   - CSS
   - JavaScript
   - LaTeX (a little)
-  - [Typest](https://typst.app)
+  - [Typst](https://typst.app)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toyama170402&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toyama170402&theme=gruvbox)
