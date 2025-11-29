@@ -5,37 +5,44 @@
 
 ## About me
 
-- A Student of KU School of Smart Tech&Innov, Transdisciplinary Sci. for Innov
+- A Student of [KU](https://kanazawa-u.ac.jp), [School of Smart Tech&Innov](https://innov.w3.kanazawa-u.ac.jp/smart/smart_philosophy/), [Transdisciplinary Sci. for Innov](https://innov.w3.kanazawa-u.ac.jp/)
+- Class of 2028（28卒）
+- Mentor for [Kanazawa IT club](https://kanazawa-it-bukatsu.jp)
+- [project:ZENKAI](https://kanazawa-it-bukatsu.jp) 2nd participants
+- Mainly develop web application
 - I like ...
   - Programming
   - Designing
   - Making
   - Cooking
   - Typesetting
-  - Reading novels
-  - Vim
-- I write ...
-  - Python
-  - HTML
-  - CSS
-  - JavaScript
-  - LaTeX (a little)
-  - [Typst](https://typst.app)
+  - Reading technical documents
+  - Vim keybinding
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toyama170402&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toyama170402&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toyama170402&theme=gruvbox)
-![](https://raw.githubusercontent.com/toyama170402/toyama170402/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/toyama170402/toyama170402/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+### Technologies I've used
+
+![Have used language & library](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,pnpm,,react,nextjs,solidjs,tailwind,py,go,latex,docker&theme=light#gh-light-mode-only)
+![Have used language & library](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,pnpm,,react,nextjs,solidjs,tailwind,py,go,latex,docker&dark#gh-dark-mode-only)
+
+### Using tools
+
+![Using tools](https://skillicons.dev/icons?i=arch,linux,git,github,neovim,vim,discord&theme=light#gh-light-mode-only)
+![Using tools](https://skillicons.dev/icons?i=arch,linux,git,github,neovim,vim,discord&dark#gh-dark-mode-only)
+
+![GitHub statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toyama170402&theme=gruvbox)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toyama170402&theme=gruvbox)
+![GitHub statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toyama170402&theme=gruvbox)
+![GitHub contribution graph for dark theme](https://raw.githubusercontent.com/toyama170402/toyama170402/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub contribution graph for light theme](https://raw.githubusercontent.com/toyama170402/toyama170402/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## Links
 
-- My Blog :[toyama170402.github.io](https://toyama170402.github.io)
 - Twitter :[twitter.com/ToYamaSoujin](https://twitter.com/ToYamaSoujin)
+- My Blog :[toyama170402.github.io](https://toyama170402.github.io)
+- rishu-app :[toyama170402.github.io/rishu-app](https://toyama170402.github.io/rishu-app)
 - YouTube :[youtube.com/@ToYamaSoujin](https://www.youtube.com/@ToYamaSoujin)
 - niconico :[nicovideo.jp/user/132705318](https://www.nicovideo.jp/user/132705318)
 - Individual Library :[koseihabunnko.github.io](https://koseihabunnko.github.io)
-- rishu-app :[toyama170402.github.io/rishu-app](https://toyama170402.github.io/rishu-app)
 
 ## About this repository
 
