@@ -22,12 +22,10 @@
 ### Technologies I've used
 
 ![Have used language & library](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,pnpm,,react,nextjs,solidjs,tailwind,py,go,latex,docker&theme=light#gh-light-mode-only)
-![Have used language & library](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,pnpm,,react,nextjs,solidjs,tailwind,py,go,latex,docker&dark#gh-dark-mode-only)
 
 ### Using tools
 
 ![Using tools](https://skillicons.dev/icons?i=arch,linux,git,github,neovim,vim,discord&theme=light#gh-light-mode-only)
-![Using tools](https://skillicons.dev/icons?i=arch,linux,git,github,neovim,vim,discord&dark#gh-dark-mode-only)
 
 ![GitHub statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toyama170402&theme=gruvbox)
 ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toyama170402&theme=gruvbox)
