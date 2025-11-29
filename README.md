@@ -18,6 +18,7 @@
   - Typesetting
   - Reading technical documents
   - Vim keybinding
+  - Arch Linux
 
 ### Technologies I've used
 
